@@ -5,4 +5,3 @@ streamlit-option-menu
 leafmap
 qrcode
 python-dotenv
-pip install . (from src directory)
