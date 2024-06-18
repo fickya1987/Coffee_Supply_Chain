@@ -1,4 +1,8 @@
 streamlit
 web3
-dotenv
 plotly
+streamlit-option-menu
+leafmap
+qrcode
+python-dotenv
+pip install . (from src directory)
